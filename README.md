@@ -13,3 +13,7 @@ You can either type `docker exec -it mongo mongo` to use the mongodb shell or yo
 `npm run mongo` which does the same thing.
 
 Here is a short [tutorial](https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/) of mongoDB shell commands.
+
+
+
+## Docker Commands
